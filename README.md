@@ -1,2 +1,2 @@
 # CrazyItInKotlin
-任玉刚Android疯狂讲义kotlin版Demo
+Crazy Android Kotlin Demo
